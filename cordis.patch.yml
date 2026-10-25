@@ -1,0 +1,4 @@
+# dsh bundle layer: mount the compaction-audit plugin (lib/index.js).
+- insert:
+    - id: compaction-audit
+      name: '@bushizhanghan/dsh-compaction-audit'
