@@ -68,7 +68,7 @@ dsh plugin --profile desktop add @bushizhanghan/dsh-compaction-audit
 ## 开发
 
 ```sh
-node --test          # 28 个单测 + 1 个集成脚本（内含 11 项断言，失败时退出码非 0）
+node --test          # 29 个单测 + 1 个集成脚本（内含 11 项断言，失败时退出码非 0）
 ```
 
 测试的 fixture 来自真实会话日志（26,154 事件那次压缩就是断言对象）。

@@ -1,6 +1,6 @@
 {
   "name": "@bushizhanghan/dsh-compaction-audit",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Audit what context compaction actually lost: session-constraint survival, tool_call/tool_result pairing, summary hallucination, ghost references, token accounting, and checkpoint restorability. Deterministic, no LLM — it audits any compactor instead of being one. 压缩质量审计：约束幸存率、配对完整性、摘要幻觉、幽灵引用、token 记账、可恢复性。",
   "type": "module",
   "main": "lib/index.js",
